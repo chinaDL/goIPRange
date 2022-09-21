@@ -1,4 +1,4 @@
-module goIPRange
+module github.com/chinaDL/goIPRange
 
 go 1.18
 
