@@ -20,3 +20,5 @@
 ```
 
 ![img.png](imgs/img.png)
+
+# /cmd/main.go 中有使用示例
